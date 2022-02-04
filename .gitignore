@@ -1,2 +1,5 @@
-# ignore design directory
+# ignore all from design directory
 design/
+
+# ignore all from examples directory
+examples/
